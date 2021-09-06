@@ -1,3 +1,4 @@
 function hideSelf() {
-  // ваш код...
+  let hiddenBtn = document.querySelector('.hide-self-button');
+  hiddenBtn.hidden = true;
 }

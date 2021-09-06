@@ -22,8 +22,6 @@ function highlight(table) {
       e.classList.add('unavailable');
     } else {
       e.hidden = true;
-    };
-
-
+    }
   });
 }
